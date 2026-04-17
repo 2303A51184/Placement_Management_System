@@ -1,1 +1,1 @@
-# Placement_Management_System
+# student_placement_management_system
